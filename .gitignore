@@ -1,1 +1,5 @@
 vendor
+data
+db
+api/*.log*
+api/node_modules/
